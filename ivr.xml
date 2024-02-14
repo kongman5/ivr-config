@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Say>This test is succesfsul</Say>
+    <Pause length="60"/>
+    <Play digits="0"/>
+    <Pause length="5"/>
+    <Play digits="0"/>
+    <Pause length="5"/>
+    <Play digits="0"/>
+    <Pause length="5"/>
+    <Play digits="2"/>
+    <Pause length="5"/>
+    <Play digits="2"/>
+    <Pause length="5"/>
+    <Play digits="1"/>
+    <Pause length="50"/>
+    <Play digits="3"/>
+    <Pause length="50"/>
+    <Play digits="3"/>
+    <!-- Add more instructions if needed -->
+</Response>
